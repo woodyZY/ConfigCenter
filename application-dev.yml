@@ -1,2 +1,4 @@
-server:
-  port:18080
+mysql:
+  url:mysql/test
+  name:root
+  password:toor
