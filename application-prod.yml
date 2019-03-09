@@ -1,5 +1,5 @@
 mysql:
-  url:mysql/prod
-  name:woodyprod
-  password:woodypwd
+  url: mysql/prod
+  name: woodyprod
+  password: woodypwd
   
