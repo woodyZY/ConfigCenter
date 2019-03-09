@@ -1,2 +1,5 @@
-server:
-  port:28080
+mysql:
+  url:mysql/prod
+  name:woodyprod
+  password:woodypwd
+  
