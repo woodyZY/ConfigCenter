@@ -7,5 +7,5 @@ eureka:
 zuul:
   routes:
     hello:                                               
-      path: /helloservice/**                                  
+      path: /api/helloservice/**                                  
       service-id: hello
